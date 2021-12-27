@@ -1,0 +1,17 @@
+# some information about you
+name: "Guilherme"
+nickname: "Levi"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+#image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "guilevi880@gmail.com"
+  phone: "+55 16 99358-1260"
+
+# some summary about what you do
+summary:
+  - I am a data scientist aspirant
+  - I work on machine learning applications
+  - I am a aeronautical engineering student
+  - Always learning
