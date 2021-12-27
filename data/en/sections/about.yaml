@@ -13,7 +13,7 @@ company:
   name: University of São Paulo.
   
 # This file path should be relative to "static" directory
-resume: "files/_EN__CV_Guilherme_Levi_Bernini_Bueno_Data_Science.pdf"
+# resume: "files/_EN__CV_Guilherme_Levi_Bernini_Bueno_Data_Science.pdf"
 
 summary: "I am an undergraduate student in the middle of the journey to become a data scientist. As a hands-on addict, I'm always trying to transform new knowledge into practical applications. I enjoy competing in Kaggle and am now excited about Cloud Computing and MLOps.""
 
