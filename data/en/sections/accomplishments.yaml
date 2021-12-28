@@ -29,3 +29,11 @@ accomplishments:
     url: https://www.coursera.org/learn/machine-learning
   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/MVNKPCLJTSHQ"
+  
+- name: Introduction to Git and GitHub
+  timeline: "Nov 2021"
+  organization:
+    name: Google/Coursera
+    url: https://www.coursera.org/learn/introduction-git-github
+  courseOverview: "This course covers Git's core functionality. It shows widely applied features, like branches and merging, and demonstrates how a version control system helps on emergency situations or when debugging."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/T8Z3XS7A3RDC"
