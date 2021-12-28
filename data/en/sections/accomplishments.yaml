@@ -13,3 +13,19 @@ accomplishments:
     url: https://www.coursera.org/learn/cloud-computing-foundations-duke
   courseOverview: This course shows how to build foundational Cloud computing infrastructure, including websites involving serverless technology and virtual machines. It also covers Agile development techniques.
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/44B5VDQDYHXV"
+
+- name: Neural Networks and Deep Learning
+  timeline: "Nov 2021"
+  organization:
+    name: DeepLearning.AI/Coursera
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  courseOverview: This course shows the foundational concept of neural networks and deep learning. 
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/NALKWGK97LRX"
+  
+- name: Machine Learning
+  timeline: "Out 2021"
+  organization:
+    name: Stanford University/Coursera
+    url: https://www.coursera.org/learn/machine-learning
+  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/MVNKPCLJTSHQ"
