@@ -10,4 +10,4 @@ openGraph:
   type: website
   description: Portfolio and personal blog of Guilherme Levi.
   image: images/author/john.png
-  url: https://hugo-toha.github.io
+  url: http://hugo-portfolio-levi.s3-website.us-east-2.amazonaws.com/
