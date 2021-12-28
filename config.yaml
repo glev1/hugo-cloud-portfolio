@@ -16,12 +16,26 @@ languages:
     languageName: English
     weight: 1
 
-# Control TOC depth
+# Allow raw html in markdown file
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
     ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Enable Google Analytics
+googleAnalytics: UA-122321624-2
 
 # Enable global emoji support
 enableEmoji: true
