@@ -15,3 +15,8 @@ skills:
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
   summary: "Know basic concepts and tecnhologies of AWS and Azure. Familiar with Azure Data Factory pipelines and AWS CodeBuild."
+  
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Familiar with git-based development. Mostly, use Github."
+  url: "https://git-scm.com/"
