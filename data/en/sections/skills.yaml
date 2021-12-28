@@ -11,3 +11,7 @@ skills:
   logo: /images/sections/skills/python.png
   summary: "Used for problem solving. Capable of manipulating large datasets, performing EDA and implementing ML models. Also, experienced in implementing nummerical methods using object-oriented programming."
   url: "https://www.python.org/"
+  
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Know basic concepts and tecnhologies of AWS and Azure. Familiar with Azure Data Factory pipelines and AWS CodeBuild."
