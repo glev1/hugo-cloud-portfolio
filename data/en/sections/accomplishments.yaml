@@ -1,0 +1,15 @@
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  
+accomplishments:
+- name: Cloud Computing Foundations
+  timeline: "Dez 2021"
+  organization:
+    name: Duke University/Coursera
+    url: https://www.coursera.org/learn/cloud-computing-foundations-duke
+  courseOverview: This course shows how to build foundational Cloud computing infrastructure, including websites involving serverless technology and virtual machines. It also covers Agile development techniques.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/44B5VDQDYHXV"
