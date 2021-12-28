@@ -2,12 +2,4 @@
 copyright: © 2021 Copyright.
 
 # # Meta description for your site.  This will help the search engines to find your site.
-# description: Portfolio and personal blog of Guilherme Levi.
-
-# Specify OpenGraph Headers
-openGraph:
-  title: Levi's Blog
-  type: website
-  description: Portfolio and personal blog of Guilherme Levi.
-  image: images/author/john.png
-  url: http://hugo-portfolio-levi.s3-website.us-east-2.amazonaws.com/
+description: Portfolio and personal blog of Guilherme Levi.
