@@ -1,0 +1,13 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Used for problem solving. Capable of manipulating large datasets, performing EDA and implementing ML models. Also, experienced in implementing engineering and nummerical methods using object-oriented programming."
+  url: "https://www.python.org/"
