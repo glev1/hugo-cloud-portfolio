@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: 
+
+degrees:
+- name: Undergraduate in Aeronautical Engineering
+  icon: fa-graduation-cap
+  timeframe: 2018-2022
+  institution:
+    name: University of Sao Paulo
+    url: "#"
+  grade: #(optional)
+    scale: Weighted Average Grade
+    achieved: 8
+    outOf: 10
