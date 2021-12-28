@@ -41,15 +41,15 @@ socialLinks:
 badges:
 - type: soft-skill-indicator
   name: Lifelong learner
-  percentage: 95
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Committed
-  percentage: 90
-  color: orange
+  percentage: 100
+  color: green
