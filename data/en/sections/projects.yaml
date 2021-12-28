@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  
+buttons:
+- name: All
+  filter: "all"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+  
+projects:
+- name: VLabs Data Challenge
+  logo: /images/sections/projects/vlabs.png
+  role: Competitor
+  timeline: "Out 2021"
+  repo: https://github.com/glev1/portfolio/tree/main/VLABS 
+  summary: "Forecasting the LTV of customers in the next 90 days based on a sales record of a retailer company."
+  tags: ["hobby", "machine-learning", "jupyter"]
