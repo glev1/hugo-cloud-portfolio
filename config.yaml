@@ -1,4 +1,4 @@
-baseURL: http://hugo-portfolio-levi.s3-website.us-east-2.amazonaws.com
+baseURL: http://glevi-portfolio.s3-website.us-east-2.amazonaws.com
 
 languageCode: en-us
 title: "Levi's blog"
@@ -7,7 +7,7 @@ theme: "toha"
 deployment:
     targets:
         name: "awsbucket"
-        URL: s3://hugo-portfolio-levi/?region=us-east-2
+        URL: s3://glevi-portfolio/?region=us-east-2
     
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
