@@ -22,3 +22,11 @@ projects:
   repo: https://github.com/glev1/portfolio/tree/main/VLABS 
   summary: "Forecasting the LTV of customers in the next 90 days based on a sales record of a retailer company."
   tags: ["hobby", "machine-learning", "jupyter"]
+  
+- name: XP Inc Hackathon
+  logo: /images/sections/projects/xp.png
+  role: Competitor
+  timeline: "Set 2021"
+  url: https://www.xphackdados.com.br/index.html
+  summary: "Pipeline implementation to perform ETL process using Azure Data Factory and Azure DataBricks."
+  tags: ["hobby", "etl", "azure"]
