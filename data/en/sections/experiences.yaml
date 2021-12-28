@@ -21,6 +21,20 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Formulation and implementatio of an object oriented routine using Python.
+    - Formulation and implementatio of an object-oriented routine using Python.
     - Time-domain analysis of the load distribution in wings using the lifting-line theory and the Wagner’s function.
     - Literature review about unsteady aerodynamic models use to perform aeroelastic analysis.
+
+- company:
+    name: EESC-USP Aerodesign
+    url: "http://aerodesign.eesc.usp.br/"
+    location: Nowhere
+    overview: EESC-USP is an academical engineering team that competes in SAE Aerodesign.
+  positions:
+  - designation: Performance Team
+    start: Fev 2019
+    end: Dez 2020
+    responsibilities:
+    - Design and manufacture of radio-controlled aircraft.
+    - Elaboration of engineering reports and ground/flight tests
+    - Management and training of new members.
